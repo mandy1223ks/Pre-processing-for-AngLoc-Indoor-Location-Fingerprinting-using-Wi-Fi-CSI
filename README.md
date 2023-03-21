@@ -19,5 +19,5 @@ AngLoc, an AOA-aware probabilistic indoor localization system using Wi-Fi CSI, c
 * CFO removal
 
 ## Result
-we show the CFR and CIR figure, and there are four step figure: original, after tap filtering, after SFO removal and after STO removal.  
+We show the CFR and CIR figure, and there are four step figure: original, after tap filtering, after SFO removal and after STO removal.  
 https://github.com/mandy1223ks/Pre-processing-for-AngLoc-Indoor-Location-Fingerprinting-using-Wi-Fi-CSI/blob/main/presentation.pdf
